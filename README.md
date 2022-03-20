@@ -1,9 +1,12 @@
 
 
-<h1 align="center"> Server Management System </h1>
+<h1 align="center"> Ｓｅｒｖｅｒ Ｍａｎａｇｅｍｅｎｔ Ｓｙｓｔｅｍ </h1>
 
 ## Application features:
-pending
+this is Full Stack Server management system. which is build in Spring boot and Angular 11.
+with full Security Auth and JWT in Backend and session based surity in frontend.
+with two 2 dashboard and public content. Home page is public page can acces without login. 
+one is admin dashboard and other is moderator dashboard.
 
 ## Used technologies:
 - Spring Boot
@@ -23,16 +26,13 @@ password: rohit@123
 - Login as Moderator
 username: Akshay
 password: akshay@123
-![git](https://user-images.githubusercontent.com/57706022/156169512-675968d1-b606-4fa6-be50-90bb4bfcde7c.png)
+![git](https://user-images.githubusercontent.com/57706022/159149171-ee62dab4-666c-4f05-b2a7-ceaf297d2abb.png)
 
 ## Welcome Page
 ![git](https://user-images.githubusercontent.com/57706022/159149133-6e1dacc7-7447-48c3-92c4-d437f4f43534.png)
 
 ## Sign Up
 ![git](https://user-images.githubusercontent.com/57706022/159149162-5cadc4ea-9fe8-4740-b9cf-aeb92ab945d7.png)
-
-## Login page
-![git](https://user-images.githubusercontent.com/57706022/156163880-6186664f-0384-4f60-bc66-162792ad0967.png)
 
 ## Admin Page
 ![git](https://user-images.githubusercontent.com/57706022/159149174-471a9a78-d7f5-4b15-ab65-b114dd52291c.png)
