@@ -26,22 +26,22 @@ password: rohit@123
 - Login as Moderator
 username: Akshay
 password: akshay@123
-![git](https://user-images.githubusercontent.com/57706022/159149171-ee62dab4-666c-4f05-b2a7-ceaf297d2abb.png)
+![git](https://user-images.githubusercontent.com/57706022/159151227-2f51cd17-765f-4734-b6f9-b202faf64e20.png)
 
 ## Welcome Page
 ![git](https://user-images.githubusercontent.com/57706022/159149133-6e1dacc7-7447-48c3-92c4-d437f4f43534.png)
 
 ## Sign Up
-![git](https://user-images.githubusercontent.com/57706022/159149162-5cadc4ea-9fe8-4740-b9cf-aeb92ab945d7.png)
+![git](https://user-images.githubusercontent.com/57706022/159151229-d0f379fa-d5ce-4cc7-a5e7-682407a9cee2.png)
 
 ## Admin Page
-![git](https://user-images.githubusercontent.com/57706022/159149174-471a9a78-d7f5-4b15-ab65-b114dd52291c.png)
+![git](https://user-images.githubusercontent.com/57706022/159151233-58bd89c7-8349-4a66-b304-3d84741c5d2b.png)
 
 ## Moderator Page
-![git](https://user-images.githubusercontent.com/57706022/159149178-943c944a-ae5a-4e32-b468-f2e2f3ea1341.png)
+![git](https://user-images.githubusercontent.com/57706022/159151236-a606d91a-29b0-433b-a5bf-983a0a06fdd6.png)
 
 ## Jwt Page
-![git](https://user-images.githubusercontent.com/57706022/159149180-c1b28ca2-5960-434f-be1f-01376b8022c1.png)
+![git](https://user-images.githubusercontent.com/57706022/159151238-2c30f5d0-9329-4c78-862f-9570cc00b6c5.png)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
