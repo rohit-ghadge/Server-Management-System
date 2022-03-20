@@ -18,6 +18,9 @@ one is admin dashboard and other is moderator dashboard.
 
 <h2 align="left"> Screenshots of the Project  </h1>
 
+## Public Page
+![git](https://user-images.githubusercontent.com/57706022/159151227-2f51cd17-765f-4734-b6f9-b202faf64e20.png)
+
 ## Sign in Page 
 - Login as Admin 
 username: Rohit
@@ -26,10 +29,7 @@ password: rohit@123
 - Login as Moderator
 username: Akshay
 password: akshay@123
-![git](https://user-images.githubusercontent.com/57706022/159151227-2f51cd17-765f-4734-b6f9-b202faf64e20.png)
-
-## Welcome Page
-![git](https://user-images.githubusercontent.com/57706022/159149133-6e1dacc7-7447-48c3-92c4-d437f4f43534.png)
+![git](https://user-images.githubusercontent.com/57706022/159151490-67e54ed7-1826-43df-8867-8075361666e2.png)
 
 ## Sign Up
 ![git](https://user-images.githubusercontent.com/57706022/159151229-d0f379fa-d5ce-4cc7-a5e7-682407a9cee2.png)
