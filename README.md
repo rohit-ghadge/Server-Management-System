@@ -4,7 +4,7 @@
 
 ## Application features:
 this is Full Stack Server management system. which is build in Spring boot and Angular 11.
-with full Security Auth and JWT in Backend and session based surity in frontend.
+with full Security Auth and JWT in Backend and session based security in frontend.
 with two 2 dashboard and public content. Home page is public page can acces without login. 
 one is admin dashboard and other is moderator dashboard.
 
